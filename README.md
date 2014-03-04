@@ -1,4 +1,6 @@
-# Send and Receive emojis using Pidgin
+# WORK IN PROGRESS
+
+## Send and Receive emojis using Pidgin
 
 This repository is a fork from unicode-emoji, and aims to complete a fully functional
 emoji pack for using between Pidgin clients and mobile devices (specially
